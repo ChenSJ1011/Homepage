@@ -1,10 +1,8 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <p><b>Shijie Chen</b></p>
-      <p><b>Biomedical Engineering</b></p>
-      <p><b>School of Imaging, Xuzhou Medical University</b></p>
-      <p><b>Email：Shijie.chen.cn@gmail.com</b></p>
+      <p><b>Shijie.chen.cn@gmail.com</b></p>
     </td>
   </tr>
 </table>
