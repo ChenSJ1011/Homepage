@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Shijie Chen
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Biomedical Engineering</b></p>
+      <p><b>School of Imaging, Xuzhou Medical University</b></p>
+      <p><b>Email：Shijie.chen.cn@gmail.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/Alison.jpg" width="100%"> 
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/ChenSJ1011/chensj1011.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Biomedical Engineering, Master of Science, Xuzhou Medical University, Xuzhou, China, 2021-2024
 
-### Markdown
+Electricity Engineering and Automation, Bachelor of Engineering, Chengdu University of Technology, Chengdu, China, 2017-2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Interest
 
-```markdown
-Syntax highlighted code block
+Artifical Intelligence * Medical Imaging * Image Processing * Blockchain
 
-# Header 1
-## Header 2
-### Header 3
+### Publication
 
-- Bulleted
-- List
+Chen, S., Song, Y., Zhang, Y., Liu, Q., Zhao, J., Chen, J., 2022. DEGANs: Generative Adversarial Networks Based on Dual-Domain Encoder-Decoder for Low-dose PET Imaging, BIBE2022, Oral
 
-1. Numbered
-2. List
+Chen, S., Zhao, C., Huang, L., Yuan, J., Liu, M., 2020. Study and implementation on the application of blockchain in electronic evidence generation. Forensic Sci. Int. Digit. Investig. 35, 301001. https://doi.org/10.1016/j.fsidi.2020.301001
 
-**Bold** and _Italic_ and `Code` text
+Zhao C., Liu M., Yang Y., Zhao F., Chen S. (2020) Toward a Blockchain Based Image Network Copyright Transaction Protection Approach. In: Yang CN., Peng SL., Jain L. (eds) Security with Intelligent Computing and Big-data Services. SICBS 2018. Advances in Intelligent Systems and Computing, vol 895. Springer, Cham. https://doi.org/10.1007/978-3-030-16946-6_2
 
-[Link](url) and ![Image](src)
-```
+### Patents
+Research on Key Technologies of Highly Available Blockchain Cloud Service System, Institute of Information Engineering of Chinese Academy of Sciences, Principal Investigator, 2020-2021, Completed.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Forensic System and Consortium Blockchain, Sichuan Students Innovation and Entrepreneurship Training Program,Education Department of Sichuan Province,  Principal Investigator, 2019-2020, Completed.
 
-### Jekyll Themes
+Development of Cooperative Monitoring System for Vehicle Violations, Students Innovation and Entrepreneurship Training Program, Ministry of Education, Investigator,2020-2021, Completed.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChenSJ1011/chensj1011.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Research and Development of Detection and Rescue Robot System Based On Machine vision, Technological Innovation Seedling Engineering, Science&Technology Department of Sichuan Province, Investigator, 2020-2021, Completed.
+
+### Patents
+
+Zhao C., Chen S.: A traffic Monitoring System Coordinated Air-ground , China Innovation Patent, 2018.
+
+Xi X., Chen S.: Smart Tennis Ball Picking Robot automatic Control Platform,China Computer Software Copyright, 2019.
+
+### Employment
+
+Rearch Assistant, Sichuan Energy Intemet Research Institute, Tsinghua University, 2021.05-2021.09
+
+### Awards
+Outstanding Graduates, Sichuan Province
+A-level Students Certificate of Overall Quality, Sichuan Province
+Outstanding Graduates, Chengdu University of Technology
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any problems,Please contact [shijie.chen.cn@gmail.com]
