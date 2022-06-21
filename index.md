@@ -46,7 +46,9 @@ Xi X., Chen S.: Smart Tennis Ball Picking Robot automatic Control Platform,China
 
 ### Awards
 Outstanding Graduates, Sichuan Province
+
 A-level Students Certificate of Overall Quality, Sichuan Province
+
 Outstanding Graduates, Chengdu University of Technology
 
 ### Support or Contact
