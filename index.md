@@ -1,8 +1,9 @@
 ---
-### Shijie Chen
-shijie.chen.cn@gmail.com
+## Shijie Chen
+Laboratory of Medical Physics and Artiificial Intelligence
+Email: shijie.chen.cn@gmail.com
 
-### Education
+### Education Experience
 
 &ensp;&ensp;◆ Department of Biomedical Engineering, Master of Science, Xuzhou Medical University, Xuzhou, China, 2021-2024
 
@@ -10,7 +11,7 @@ shijie.chen.cn@gmail.com
 
 &ensp;&ensp;◆ Department of Electricity Engineering and Automation, Bachelor of Engineering, Chengdu University of Technology, Chengdu, China, 2017-2021
 
-### Employment
+### Work Experience
 
 &ensp;&ensp;◆ Rearch Assistant, Sichuan Energy Intemet Research Institute, Tsinghua University, 2021.05-2021.09
 
@@ -50,6 +51,14 @@ shijie.chen.cn@gmail.com
 
 &ensp;&ensp;◆ Outstanding Graduates, Chengdu University of Technology
 
+### Professional Society Membership
+
+&ensp;&ensp;◆ Member of China Computer Federation(CCF)
+
+&ensp;&ensp;◆ Graduate Student Member of IEEE
+
+&ensp;&ensp;◆ Member of EMBC
+
 ### Support or Contact
 
-If you have any problems,Please contact [shijie.chen.cn@gmail.com]
+&ensp;&ensp;If you have any problems,Please contact [shijie.chen.cn@gmail.com]
