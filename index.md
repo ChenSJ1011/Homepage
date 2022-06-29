@@ -25,7 +25,7 @@ Artifical Intelligence * Medical Imaging * Image Processing * Blockchain
 
 ### Publication
 
-  * Chen, S., Song, Y., Zhang, Y., Liu, Q., Zhao, J., Chen, J., 2022. DEGANs: Generative Adversarial Networks Based on Dual-Domain Encoder-Decoder for Low-dose PET Imaging, BIBE, 2022, Oral
+  Chen, S., Song, Y., Zhang, Y., Liu, Q., Zhao, J., Chen, J., 2022. DEGANs: Generative Adversarial Networks Based on Dual-Domain Encoder-Decoder for Low-dose PET Imaging, BIBE, 2022, Oral
 
   * Chen, S., Zhao, C., Huang, L., Yuan, J., Liu, M., 2020. Study and implementation on the application of blockchain in electronic evidence generation. Forensic Sci. Int. Digit. Investig. 35, 301001. https://doi.org/10.1016/j.fsidi.2020.301001
 
