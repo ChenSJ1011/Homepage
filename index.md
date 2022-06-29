@@ -2,7 +2,7 @@
   <tr>
     <td width="100%">
       <p><b>Shijie Chen</b></p>
-      <p><b>Shijie.chen.cn@gmail.com</b></p>
+      <p><b>shijie.chen.cn@gmail.com</b></p>
     </td>
   </tr>
 </table>
@@ -10,6 +10,8 @@
 ### Education
 
 Biomedical Engineering, Master of Science, Xuzhou Medical University, Xuzhou, China, 2021-2024
+
+Department of Biomedical Imaging and Radiological Sciences, Under Joint Postgraduate-Supervision, National Yang Ming Chiao Tung University, Taipei, China, 2021-2024
 
 Electricity Engineering and Automation, Bachelor of Engineering, Chengdu University of Technology, Chengdu, China, 2017-2021
 
@@ -23,11 +25,13 @@ Artifical Intelligence * Medical Imaging * Image Processing * Blockchain
 
 ### Publication
 
-Chen, S., Song, Y., Zhang, Y., Liu, Q., Zhao, J., Chen, J., 2022. DEGANs: Generative Adversarial Networks Based on Dual-Domain Encoder-Decoder for Low-dose PET Imaging, BIBE2022, Oral
+\diamond Chen, S., Song, Y., Zhang, Y., Liu, Q., Zhao, J., Chen, J., 2022. DEGANs: Generative Adversarial Networks Based on Dual-Domain Encoder-Decoder for Low-dose PET Imaging, BIBE2022, Oral
 
-Chen, S., Zhao, C., Huang, L., Yuan, J., Liu, M., 2020. Study and implementation on the application of blockchain in electronic evidence generation. Forensic Sci. Int. Digit. Investig. 35, 301001. https://doi.org/10.1016/j.fsidi.2020.301001
+\diamond Chen, S., Zhao, C., Huang, L., Yuan, J., Liu, M., 2020. Study and implementation on the application of blockchain in electronic evidence generation. Forensic Sci. Int. Digit. Investig. 35, 301001. https://doi.org/10.1016/j.fsidi.2020.301001
 
-Zhao C., Liu M., Yang Y., Zhao F., Chen S. (2020) Toward a Blockchain Based Image Network Copyright Transaction Protection Approach. In: Yang CN., Peng SL., Jain L. (eds) Security with Intelligent Computing and Big-data Services. SICBS 2018. Advances in Intelligent Systems and Computing, vol 895. Springer, Cham. https://doi.org/10.1007/978-3-030-16946-6_2
+\diamond Zhao, J.#, Chen, S.#, Song, Y., Zhang, Y., Li, J., Yao, P., Chen, J.*, 2022. CIETS: A Color Image Encryption and Transmission Scheme via Chaotic System and DNA Encoding over Blockchain, Under Review. ( # Equal First Author, * Corresponding Author)
+
+\diamond Zhao C., Liu M., Yang Y., Zhao F., Chen S. (2020) Toward a Blockchain Based Image Network Copyright Transaction Protection Approach. In: Yang CN., Peng SL., Jain L. (eds) Security with Intelligent Computing and Big-data Services. SICBS 2018. Advances in Intelligent Systems and Computing, vol 895. Springer, Cham. https://doi.org/10.1007/978-3-030-16946-6_2
 
 ### Projects
 Research on Key Technologies of Highly Available Blockchain Cloud Service System, Institute of Information Engineering of Chinese Academy of Sciences, Principal Investigator, 2020-2021, Completed.
