@@ -1,11 +1,6 @@
-<table border="0">
-  <tr>
-    <td width="100%">
-      <p><b>Shijie Chen</b></p>
-      <p><b>shijie.chen.cn@gmail.com</b></p>
-    </td>
-  </tr>
-</table>
+---
+### Shijie Chen
+shijie.chen.cn@gmail.com
 
 ### Education
 
