@@ -4,6 +4,10 @@ Laboratory of Medical Physics and Artiificial Intelligence
 
 Email: shijie.chen.cn@gmail.com
 
+### Research Interest
+
+&ensp;&ensp;◆ Artifical Intelligence * Medical Imaging * Image Processing
+
 ### Education Experience
 
 &ensp;&ensp;◆ Department of Biomedical Engineering, Master of Science, Xuzhou Medical University, Xuzhou, China, 2021-2024
@@ -12,13 +16,9 @@ Email: shijie.chen.cn@gmail.com
 
 &ensp;&ensp;◆ Department of Electricity Engineering and Automation, Bachelor of Engineering, Chengdu University of Technology, Chengdu, China, 2017-2021
 
-### Work Experience
+### English Skills
 
-&ensp;&ensp;◆ Rearch Assistant, Sichuan Energy Intemet Research Institute, Tsinghua University, 2021.05-2021.09
-
-### Research Interest
-
-&ensp;&ensp;◆ Artifical Intelligence * Medical Imaging * Image Processing * Blockchain
+&ensp;&ensp;◆ IELTS 6.5(6)
 
 ### Publication
 
@@ -45,10 +45,16 @@ Email: shijie.chen.cn@gmail.com
 
 &ensp;&ensp;◆ Xi X., Chen S.: Smart Tennis Ball Picking Robot automatic Control Platform,China Computer Software Copyright, 2019.
 
+### Work Experience
+
+&ensp;&ensp;◆ Rearch Assistant, Sichuan Energy Internet Research Institute, Tsinghua University, 2021.05-2021.09
+
 ### Awards
 &ensp;&ensp;◆ Outstanding Graduates, Sichuan Province
 
 &ensp;&ensp;◆ A-level Students Certificate of Overall Quality, Sichuan Province
+
+&ensp;&ensp;◆ Outstanding Students, Xuzhou Medical University
 
 &ensp;&ensp;◆ Outstanding Graduates, Chengdu University of Technology
 
@@ -62,4 +68,4 @@ Email: shijie.chen.cn@gmail.com
 
 ### Support or Contact
 
-&ensp;&ensp;If you have any problems,Please contact [shijie.chen.cn@gmail.com]
+&ensp;&ensp;Please contact [shijie.chen.cn@gmail.com]
