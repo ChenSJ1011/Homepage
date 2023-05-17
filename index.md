@@ -6,7 +6,7 @@ Email: shijie.chen.cn@gmail.com
 
 ### Research Interest
 
-&ensp;&ensp;◆ Artifical Intelligence * Medical Imaging * Image Processing
+&ensp;&ensp;◆ Medical Imaging * Image Denoising * Classification based Artifical Intelligence
 
 ### Education Experience
 
@@ -21,6 +21,9 @@ Email: shijie.chen.cn@gmail.com
 &ensp;&ensp;◆ IELTS 6.5(6)
 
 ### Publication
+&ensp;&ensp;◆ Chen, S., Tian, X., Wang Y., Song, Y., Zhang, Y., Liu, Q., Zhao, J., Chen, J., 2022. DAEGANs: Generative Adversarial Networks Based on Attention-Enhanced Dual-Domain Encoder-Decoder for Low-dose PET Imaging, Biomedical Signal Control and Processing (JCR Q2, IF=5.05), 2023, Major Revision
+
+&ensp;&ensp;◆ Zhang, Y.#, Chen, S.#, Wang, Y. et al. Deep learning-based methods for classification of microsatellite instability in endometrial cancer from HE-stained pathological images. J Cancer Res Clin Oncol (JCR=Q2, IF=4.5, 2023). https://doi.org/10.1007/s00432-023-04838-4 (# Equal First Author)
 
 &ensp;&ensp;◆ Chen, S., Song, Y., Zhang, Y., Liu, Q., Zhao, J., Chen, J., 2022. DEGANs: Generative Adversarial Networks Based on Dual-Domain Encoder-Decoder for Low-dose PET Imaging, BIBE, 2022, Oral
 
@@ -31,9 +34,6 @@ Email: shijie.chen.cn@gmail.com
 &ensp;&ensp;◆ Zhao C., Liu M., Yang Y., Zhao F., Chen S. (2020) Toward a Blockchain Based Image Network Copyright Transaction Protection Approach. In: Yang CN., Peng SL., Jain L. (eds) Security with Intelligent Computing and Big-data Services. SICBS 2018. Advances in Intelligent Systems and Computing, vol 895. Springer, Cham. https://doi.org/10.1007/978-3-030-16946-6_2
 
 ### Projects
-&ensp;&ensp;◆ Research on Key Technologies of Highly Available Blockchain Cloud Service System, Institute of Information Engineering of Chinese Academy of Sciences, Principal Investigator, 2020-2021, Completed.
-
-&ensp;&ensp;◆ Forensic System and Consortium Blockchain, Sichuan Students Innovation and Entrepreneurship Training Program,Education Department of Sichuan Province,  Principal Investigator, 2019-2020, Completed.
 
 &ensp;&ensp;◆ Development of Cooperative Monitoring System for Vehicle Violations, Students Innovation and Entrepreneurship Training Program, Ministry of Education, Investigator,2020-2021, Completed.
 
